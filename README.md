@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yuvrajsingh-6
-- 👀 I’m interested in Python Language,Cloud Storage and Data Management and Software Development.
+- 👀 I’m interested in Python Language,Cloud Storage,Data Management and Software Development.
 - 🌱 I’m currently learning Python Basics.
 - 💞️ I’m looking to collaborate on Cloud Storage on any platform.
 - 📫 How to reach me-
