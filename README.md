@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @yuvrajsingh-6
-- 👀 I’m interested in Python Language,Cloud Storage,Data Management and Software Development.
-- 🌱 I’m currently learning Python Basics.
+- 👀 I’m interested in Cloud Storage,Software Development.
+- 🌱 I’m currently learning C++ Basics,C language and having basic knowledge in Python.
 - 💞️ I’m looking to collaborate on Cloud Storage on any platform.
 - 📫 How to reach me-
-mail id-yuvraj.6203@gmail.com
+     Mail-yuvraj.6203@gmail.com
+     Instagram-@yuvraaaj_01.
 
 <!---
 yuvrajsingh-6/yuvrajsingh-6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
